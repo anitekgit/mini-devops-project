@@ -1,0 +1,7 @@
+- name: "Install Pre-requisites for Gitlab Runner"
+  hosts: all
+  tasks:
+    - name: "Main Script"
+      script:
+        /path/to/script/install.sh
+      become: yes
