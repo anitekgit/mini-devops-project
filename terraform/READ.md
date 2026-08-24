@@ -1,3 +1,3 @@
 ### Repo for Medium Article ###
 
-https://medium.com/@raoaniket2396/mini-devops-project-on-aws-673ad45f50cf
+[[https://medium.com/@raoaniket2396/mini-devops-project-on-aws-673ad45f50cf](https://aniketrao.medium.com/mini-devops-project-on-aws-673ad45f50cf)](https://aniketrao.medium.com/mini-devops-project-on-aws-673ad45f50cf)
